@@ -28,7 +28,10 @@
         <p> A number \(d\) is constructible if a line segment connecting two end points with precisely distance \(d\) apart between them can be constructed in a finite number of steps. We also have the following theorem:</p>
         <p> <b>Theorem:</b> A number \(d\) is constructible if and only if it can be obtained by doing finitely operations of \(+,-,\times,\div,\sqrt{\cdot}\) to a set of integers \(\mathbb{Z}\). </p>
         <p> Recall again from the construction of regular polygons, it turns out that we can construct a regular polygon if we can construct the point with coordinates \((\cos(\frac{2\pi}{n}),\sin(\frac{2\pi}{n}))\) on a \(\mathbb{R}^2\) plane. This relates to the equation \(z^n=1\) since \(z=\cos(\frac{2\pi}{n})+i\sin(\frac{2\pi}{n})\) is a solution to the equation, where \(i^2=-1\) and the set of numbers \(a+bi\) with \(a,b\in\mathbb{R}\) represents the set of complex numbers that is analogous to \(\mathbb{R}^2\).
-        <p>lolfyfy</p>
+        <p>By fundamental theorem of alegbra, every polynomials of degree \(n\) with complex coefficients \(a_nx^n+\cdots+a_1x+a_0x_0\) must have \(n\) roots in the set of complex numbers \(\mathbb{C}\) (could be repeated) too. </p>
+        <hr>
+        <h2>Rings and Fields of Numbers</h2>
+
     <script>
         function showAlert() {
             alert('Hello! This is a JavaScript function.');
