@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,13 +11,19 @@
         main { padding: 2em; }
         button { padding: 0.5em 1em; font-size: 1em; }
     </style>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css">
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 </head>
 <body>
     <header>
         <h1>Things I have learned in MATH3121 Abstract Algebra so far</h1>
     </header>
     <main>
-        <p>This is a simple HTML page with <code>&lt;head&gt;</code>, <code>&lt;body&gt;</code>, and <code>&lt;script&gt;</code> sections.</p>
+        <h2>Geometric Construction, Complex Numbers, Polynominals<h2>
+        <hr> 
+        <p> <b>Definition:</b> A geometric object is constructible if it can be obtained by using straightedge and compass only within finite steps.</p>
         <button onclick="showAlert()">Click Me</button>
     </main>
     <script>
