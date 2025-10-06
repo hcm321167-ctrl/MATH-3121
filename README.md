@@ -1,5 +1,3 @@
-# MATH-3121
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,7 +13,7 @@
 </head>
 <body>
     <header>
-        <h1>Welcome to My Webpage</h1>
+        <h1>Things I have learned in MATH3121 Abstract Algebra so far</h1>
     </header>
     <main>
         <p>This is a simple HTML page with <code>&lt;head&gt;</code>, <code>&lt;body&gt;</code>, and <code>&lt;script&gt;</code> sections.</p>
