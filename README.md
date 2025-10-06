@@ -21,7 +21,7 @@
         <h1>Things I have learned in MATH3121 Abstract Algebra so far</h1>
     </header>
     <main>
-        <h2>Geometric Construction, Complex Numbers, Polynominals<h2>
+        <h2>Geometric Construction, Complex Numbers, Polynominals</h2>
         <hr> 
         <p> <b>Definition:</b> A geometric object is constructible if it can be obtained by using straightedge and compass only within finite steps.</p>
         <button onclick="showAlert()">Click Me</button>
