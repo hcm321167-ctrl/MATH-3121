@@ -24,7 +24,10 @@
         <h2>Geometric Construction, Complex Numbers, Polynominals</h2>
         <hr> 
         <p> <b>Definition:</b> A geometric object is constructible if it can be obtained by using straightedge and compass only within a finite number of steps.</p>
-        By <a href="https://en.wikipedia.org/wiki/User:TokyoJunkie" class="extiw" title="en:User:TokyoJunkie">TokyoJunkie</a> at the English Wikipedia - <a href="https://en.wikipedia.org/wiki/Image:Pentagon_construct.gif" class="extiw" title="en:Image:Pentagon construct.gif">en:Image:Pentagon_construct.gif</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=829215">Link</a>
+        <p>For example, a regular pentagon is constructible as shown below:</p>
+        <img src="Pentagon_construct.gif" alt="Pentagon_construct">
+        <h6>By <a href="https://en.wikipedia.org/wiki/User:TokyoJunkie" class="extiw" title="en:User:TokyoJunkie">TokyoJunkie</a> at the English Wikipedia - <a href="https://en.wikipedia.org/wiki/Image:Pentagon_construct.gif" class="extiw" title="en:Image:Pentagon construct.gif">en:Image:Pentagon_construct.gif</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=829215">Link</a></h6>
+
         <button onclick="showAlert()">Click Me</button>
     </main>
     <script>
