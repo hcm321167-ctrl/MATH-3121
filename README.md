@@ -1,4 +1,3 @@
-# MATH 3121
 
 <html lang="en">
 <head>
